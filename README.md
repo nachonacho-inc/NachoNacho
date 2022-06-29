@@ -1,4 +1,4 @@
-![Image of NachoNacho](https://app.nachonacho.co/logo/NachoNachoLogo.png)
+![Image of NachoNacho](https://app.nachonacho.com/logo/NachoNachoLogo.png)
 
 ------
 
